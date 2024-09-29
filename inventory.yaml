@@ -6,12 +6,12 @@ all:
       ansible_user: ubuntu
       ansible_password: ubuntu
       ansible_become_pass: ubuntu
-        pos-tst-002:
+    pos-tst-002:
       ansible_host: 192.168.0.122
       ansible_user: ubuntu
       ansible_password: ubuntu
       ansible_become_pass: ubuntu
-        pos-tst-003:
+    pos-tst-003:
       ansible_host: 192.168.0.123
       ansible_user: ubuntu
       ansible_password: ubuntu
